@@ -1,6 +1,7 @@
-Hello! I’m Angelina Knight and I'm a senior at the University of Michigan studying Information Science and Psychology.
-- I’m interested in data science, psychopathology, skiing, national parks, dogs, euchre and learning to play tennis.
-- I’m currently learning data exploration using Python.
+Hello! I’m Angelina Knight and I am currently a Software Engineer at Gap Inc.
+- In 2022, I graduated from the University of Michigan with a BS in Information Analysis and a BA in Psychology
+- I am based in San Francisco, CA
+
 
 <!---
 angknight/angknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
