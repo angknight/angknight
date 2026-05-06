@@ -1,4 +1,4 @@
-Hello! I’m Angelina Knight and I am currently a Software Engineer at Gap Inc based in Chicago, IL. In 2022, I graduated from the University of Michigan with a BS in Information Analysis and a BA in Psychology.
+Hello! I’m Angelina Knight and I am currently a Senior Software Engineer at Gap Inc based in Chicago, IL. In 2022, I graduated from the University of Michigan with a BS in Information Analysis and a BA in Psychology.
 
 <!---
 angknight/angknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
